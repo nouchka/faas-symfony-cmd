@@ -1,0 +1,2 @@
+DOCKER_IMAGE=faas-symfony
+TEST_FUNC=ggt
